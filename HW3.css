@@ -1,0 +1,33 @@
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+
+
+}
+
+#slider{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
+
+.previous_passwords{
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+    text-align: center;
+    padding-left: 500px;
+}
