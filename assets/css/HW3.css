@@ -1,3 +1,9 @@
+body {
+    background-image: url('https://previews.123rf.com/images/archerix/archerix1201/archerix120100088/12011298-hands-on-the-keyboard-abstract-computer-background-.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 .content{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -25,8 +31,13 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%
 
 .previous_passwords{
     margin-bottom: 20px;
+    background: linear-gradient(0deg, rgba(34, 192, 195, 0.719) 0%, rgba(253, 187, 45, 0.712) 100%);
 }
-
+#lastNums {
+    color: rgb(22, 6, 248);
+    font-weight: 400;
+    font-size: 26px;
+}
 .navbar-brand{
     text-align: center;
     padding-left: 500px;
