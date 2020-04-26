@@ -2,6 +2,7 @@ body {
     background-image: url('https://previews.123rf.com/images/archerix/archerix1201/archerix120100088/12011298-hands-on-the-keyboard-abstract-computer-background-.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
   }
 
 .content{
